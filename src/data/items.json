@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Computer",
+    "price": 800,
+    "imgUrl": "/images/computer.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bike",
+    "price": 150,
+    "imgUrl": "/images/bike.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Camera",
+    "price": 550,
+    "imgUrl": "/images/camera.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Christmas ball",
+    "price": 8,
+    "imgUrl": "/images/christmas-ball.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Flowers",
+    "price": 12,
+    "imgUrl": "/images/flowers.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Frame",
+    "price": 4,
+    "imgUrl": "/images/frame.png"
+  }
+]
